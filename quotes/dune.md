@@ -5,3 +5,4 @@
 * "When Is A Gift Not A Gift?"
 * "The spice must flow."
 * "Fear is the mind-killer."
+* "We await your orders, Lisan al-Gaib."
